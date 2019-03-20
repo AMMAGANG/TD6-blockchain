@@ -1,4 +1,8 @@
 # TD6-blockchain
+
+C'est Oscar GRAND MIF7
+
+
  creation of a ERC271 contract and implementation of all the functions. 
  
  Creation of a registerBreeder() function : 
